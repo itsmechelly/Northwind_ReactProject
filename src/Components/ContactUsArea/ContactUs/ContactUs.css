@@ -1,0 +1,13 @@
+.ContactUs {
+	margin: 20px;
+    padding: 20px;
+}
+
+.Headline { /* Invented name */
+    text-align: center;
+}
+
+.ContactUs > .TextBox { /* Invented name */
+    width: 450px;
+    margin: 5px !important;
+}
